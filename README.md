@@ -1,6 +1,6 @@
 # 🚀 The 1,000 Projects Journey
 
-Welcome to the master archive! This repository contains the source code for every project built on the **[RobertDoesDev YouTube Channel](YOUR_YOUTUBE_LINK_HERE)**.
+Welcome to the master archive! This repository contains the source code for every project built on the **[IsahiahDoesDev YouTube Channel](YOUR_YOUTUBE_LINK_HERE)**.
 
 ## 📂 Project Index
 
@@ -10,7 +10,7 @@ Welcome to the master archive! This repository contains the source code for ever
 | 002 | *Coming Soon* | ... | ... |
 
 ## 🛠 How to Use This Repo
-1. **Clone the repo:** `git clone https://github.com/RobertDoesDev/1000-projects-journey.git`
+1. **Clone the repo:** `git clone https://github.com/IsahiahDoesDev/1000-Projects-Challenge.git`
 2. **Navigate:** Go into the folder of the project you want to study (e.g., `cd 001-color-flipper`).
 3. **Run:** Open `index.html` in your browser to see it in action.
 
@@ -20,4 +20,4 @@ This archive is made possible by supporters like you.
 - [Buy Me a Coffee](YOUR_BUYMEACOFFEE_LINK_HERE)
 
 ---
-*Created by [Robert [Last Name]](https://robertdoesdev.com)*
+*Created by [Isahiah Alexander-Lloyd]](https://isahiahdoesdev.com)*
