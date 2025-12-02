@@ -20,4 +20,4 @@ This archive is made possible by supporters like you.
 - [Buy Me a Coffee](YOUR_BUYMEACOFFEE_LINK_HERE)
 
 ---
-*Created by [Isahiah Alexander-Lloyd]](https://isahiahdoesdev.com)*
+*Created by [Isahiah Alexander-Lloyd](https://isahiahdoesdev.com)*
