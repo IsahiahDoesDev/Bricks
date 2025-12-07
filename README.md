@@ -1,8 +1,8 @@
 # 🧱 Bricks: The Foundation
 
-> **"You cannot build a Cathedral without laying the bricks."**
+> **"Do you wish to rise? Begin by descending. You plan a tower that will pierce the clouds? Lay first the foundation of humility." - Saint Augustine **
 
-Welcome to the **Bricks** repository. This is the workshop of **IsaiahDoesDev**.
+Welcome to the **Bricks** repository.
 
 ## 📖 About The Collection
 
