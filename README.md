@@ -8,29 +8,29 @@ Welcome to the **Bricks** repository. This is the workshop of **IsaiahDoesDev**.
 
 This repository contains the "Bricks" — a series of 100 focused, isolated applications built to master specific concepts of Full Stack Software Engineering.
 
-Unlike my **Flagship Projects** (which are complex, production-ready SaaS applications found in "The Showroom"), these Bricks are designed for:
+Unlike my **Showcase Projects** (which are complex, production-ready SaaS applications found in "The Showcase"), these Bricks are designed for:
 1.  **Specific Skill Acquisition** (e.g., mastering `useEffect`, API integration, or 3D rendering).
 2.  **Rapid Prototyping** (Moving from idea to code in < 4 hours).
 3.  **Content Creation** (Documenting the journey on YouTube).
 
-**Goal:** Build 100 Bricks to bridge the gap between "Tutorial Hell" and "Senior Engineer."
+**Goal:** Build 100 Bricks to bridge the gap between "Tutorial Hole" and "Software Engineer."
 
 ---
 
 ## 🛠️ The Tech Stack
 
-These projects are built using the modern "Elite" stack:
+These projects are built using the following:
 
 *   **Framework:** [Next.js](https://nextjs.org/) (App Router)
 *   **Language:** JavaScript / TypeScript
 *   **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 *   **Backend:** [Supabase](https://supabase.com/) (Postgres, Auth, Storage)
 *   **State Management:** React Hooks, Context API, Zustand
-*   **Deployment:** Vercel (Flagships) / Local (Bricks)
+*   **Deployment:** Vercel (Showcase) / Local (Bricks)
 
 ---
 
-## 📂 The Brickyard (Project Index)
+## 📂 Bricks (Project Index)
 
 ### Phase 1: The State Ladder (Frontend Logic)
 | # | Project Name | Key Skill Mastered | Status |
@@ -59,7 +59,7 @@ These projects are built using the modern "Elite" stack:
 | 14 | **Link-in-Bio Clone** | Dynamic Routing, CMS Logic | ⏳ |
 | 15 | **Image Gallery** | Storage Buckets (BLOBs) | ⏳ |
 
-*(List continues...)*
+
 
 ---
 
