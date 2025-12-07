@@ -96,8 +96,8 @@ Since this is a monorepo approach for learning, navigate to the specific brick f
 I am documenting the entire process of building these 100 apps.
 You can watch the code breakdowns and speed builds here:
 
-*   **YouTube:** [IsaiahDoesDev](https://youtube.com/@IsahiahDoesDev)
-*   **Portfolio:** [IsaiahDoesDev.com](https://isaiahdoesdev.com)
+*   **YouTube:** [IsahiahDoesDev](https://youtube.com/@IsahiahDoesDev)
+*   **Portfolio:** [IsahiahDoesDev.com](https://isahiahdoesdev.com)
 *   **Twitter:** [@IsahiahDoesDev](https://twitter.com/IsahiahDoesDev)
 
 ---
