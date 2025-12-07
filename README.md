@@ -1,6 +1,6 @@
 # 🧱 Bricks: The Foundation
 
-> **"Do you wish to rise? Begin by descending. You plan a tower that will pierce the clouds? Lay first the foundation of humility." - Saint Augustine **
+> ** "Do you wish to rise? Begin by descending. You plan a tower that will pierce the clouds? Lay first the foundation of humility."** - Saint Augustine 
 
 Welcome to the **Bricks** repository.
 
