@@ -6,7 +6,7 @@ Welcome to the **Bricks** repository. This is the workshop of **IsaiahDoesDev**.
 
 ## 📖 About The Collection
 
-This repository contains the "Bricks" — a series of 100 focused, isolated applications built to master specific concepts of Full Stack Systems Engineering.
+This repository contains the "Bricks" — a series of 100 focused, isolated applications built to master specific concepts of Full Stack Software Engineering.
 
 Unlike my **Flagship Projects** (which are complex, production-ready SaaS applications found in "The Showroom"), these Bricks are designed for:
 1.  **Specific Skill Acquisition** (e.g., mastering `useEffect`, API integration, or 3D rendering).
