@@ -45,7 +45,7 @@ These projects are built using the following:
 | # | Project Name | Key Skill Mastered | Status |
 |:-:|:---|:---|:---:|
 | 06 | **Ye Quote Generator** | `fetch`, Async/Await | ⏳ |
-| 07 | **Crypto Price Ticker** | Complex JSON Parsing | ⏳ |
+| 07 | **Crypto Price Ticker** | Complex JSON Parsing          | ⏳ |
 | 08 | **GitHub User Search** | Dynamic API Requests | ⏳ |
 | 09 | **Weather Card** | Conditional Rendering | ⏳ |
 | 10 | **Advice Slip** | Clipboard API | ⏳ |
